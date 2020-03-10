@@ -7,4 +7,4 @@ def multiplicacion():
     resultadomulti = entrada1 * entrada2
     return f'Hello, {escape(resultadomulti)}!'
 
-    
+     
